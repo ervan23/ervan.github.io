@@ -459,10 +459,10 @@ a {
 .single-portfolio {
   border-radius: 5px; }
   .single-portfolio:hover .thumb .overlay-bg {
-    opacity: .85; }
+    opacity: .2; }
 
 .thumb .overlay-bg {
-  opacity: 0;
+  opacity: 1;
   border-radius: 5px;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
